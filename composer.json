@@ -1,5 +1,5 @@
 {
-    "name": "akaunting/laravel-firewall",
+    "name": "martinsnajdr/laravel-firewall",
     "description": "Web Application Firewall (WAF) package for Laravel",
     "keywords": [
       "laravel",
@@ -22,8 +22,8 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "laravel/framework": "^9.0",
+        "php": "^8.0 || ^8.1",
+        "laravel/framework": "^9.0 || ^10.0",
         "guzzlehttp/guzzle": "^7.4",
         "jenssegers/agent": "2.6.*"
     },
